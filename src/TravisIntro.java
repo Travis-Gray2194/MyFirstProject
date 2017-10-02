@@ -23,7 +23,6 @@ public class TravisIntro {
         major = keyboard.nextLine();
 
         String interesting;
-        long inter;
         System.out.println("What is something interesting about you");
         interesting = keyboard.nextLine();
 
